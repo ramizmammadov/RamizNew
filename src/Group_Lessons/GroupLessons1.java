@@ -9,7 +9,7 @@ public class GroupLessons1 {
         //by Ramiz////lets see
         System.out.println("hello world");
     }
-    }
+
 
    int highest=-254532345;
    int lowest =254532345;
@@ -23,7 +23,8 @@ public class GroupLessons1 {
 
             }
         }
-///////
+
+///////by Alina
 
 
 
