@@ -10,11 +10,12 @@ public class GroupLessons1 {
 
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number");
-        counter = input.nextInt();
+        int userinput = input.nextInt();
 
-        while(counter<5){
+        while(userinput<5){
+
+            }
         }
-    }
     }
 
 
