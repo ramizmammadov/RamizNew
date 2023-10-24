@@ -13,7 +13,7 @@ public class GroupLessons1 {
         int userinput = input.nextInt();
 
         while(userinput<5){
-
+            System.out.println("Hello World");
             }
         }
     }
